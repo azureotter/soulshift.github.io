@@ -1,0 +1,12 @@
+{
+  "name": "GMTK Jam 2023 Game",
+  "short_name": "GMTK Jam 2023 Game",
+  "id": "com.example.gamename",
+  "description": "",
+  "orientation": "any",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "black",
+  "categories": ["games", "entertainment"],
+  "icons": []
+}
